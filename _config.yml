@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Ehtiman Nuralizade"
 title_separator          : "-"
-name                     : &name "Ehtiman"
-description              : &description "Poet/Writer"
+name                     : &name "Ehtiman Nuralizade"
+description              : &description "Poet | Writer"
 url                      : https://enuralizade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enuralizade/enuralizade.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ehtiman Nuralizade"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Poet | Writer"
+  location         : "Baku, Azerbaijan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
